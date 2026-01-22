@@ -4,7 +4,7 @@ import Manager from "./component/Manager"
 import Navbar from "./component/Navbar"
 function App() {
   
-  return (
+  return ( 
     <>
       <Navbar/>
       <Manager/>
